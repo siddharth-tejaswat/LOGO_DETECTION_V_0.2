@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Haier
+Comment = AI and TV
+Exec=/home/truedatasoft/Haier_TV/run_me.sh
+Icon=/home/truedatasoft/Haier_TV/logo/logo.jpg
+Terminal=false
