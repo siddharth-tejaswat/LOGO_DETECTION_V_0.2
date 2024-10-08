@@ -1,0 +1,16 @@
+sudo su
+apt update 
+
+apt-get install docker.io
+
+docker pull ubuntu
+
+docker image ls
+
+docker run --name
+
+docker run 
+
+docker run --name ubuntu_gtv_v1 -v $(pwd) -w $(pwd) -itd ubuntu
+
+docker run --name ubuntu_gtv_v1 -v $(pwd) -w $(pwd) -itd --security-opt apparmor=unconfined --security-opt seccomp=unconfined --security-opt systempaths=unconfined ubuntu

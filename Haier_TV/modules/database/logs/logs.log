@@ -1,0 +1,86 @@
+2024-09-21 08:06:17,258 - INFO - Database connection established.
+2024-09-21 08:06:17,260 - INFO - Barcode 1 does not exist in the database.
+2024-09-21 08:06:17,260 - ERROR - Failed to fetch existing records
+2024-09-21 08:06:25,977 - INFO - Database connection established.
+2024-09-21 08:06:25,977 - ERROR - Database query failed: 'int' object is not subscriptable
+2024-09-21 08:06:25,978 - ERROR - Failed to fetch existing records
+2024-09-21 08:06:38,901 - INFO - Database connection established.
+2024-09-21 08:06:38,903 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 08:06:38,903 - INFO - Successfully fetched existing records
+2024-09-21 08:17:43,805 - INFO - Database connection established.
+2024-09-21 08:17:43,810 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 08:17:43,811 - INFO - Successfully fetched existing records
+2024-09-21 08:18:00,897 - INFO - Database connection established.
+2024-09-21 08:18:00,903 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 08:18:00,903 - INFO - Successfully fetched existing records
+2024-09-21 08:18:09,408 - INFO - Database connection established.
+2024-09-21 08:18:09,411 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 08:18:09,411 - INFO - Successfully fetched existing records
+2024-09-21 08:28:12,542 - INFO - Database connection established.
+2024-09-21 08:28:12,544 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 08:28:12,544 - INFO - Successfully fetched existing records
+2024-09-21 11:45:30,715 - INFO - Database connection established.
+2024-09-21 11:45:30,717 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 11:45:30,717 - INFO - Successfully fetched existing records
+2024-09-21 11:46:45,526 - INFO - Database connection established.
+2024-09-21 11:46:45,528 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 11:46:45,529 - INFO - Successfully fetched existing records
+2024-09-21 11:47:28,173 - INFO - Database connection established.
+2024-09-21 11:47:28,176 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 11:47:28,176 - INFO - Successfully fetched existing records
+2024-09-21 14:27:10,067 - INFO - Database connection established.
+2024-09-21 14:27:10,068 - INFO - Barcode 1 does not exist in the database.
+2024-09-21 14:28:18,127 - INFO - Database connection established.
+2024-09-21 14:28:18,128 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 14:28:18,128 - INFO - Successfully fetched existing records
+2024-09-21 18:16:46,800 - INFO - Database connection established.
+2024-09-21 18:16:46,824 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:16:46,825 - INFO - Successfully fetched existing records
+2024-09-21 18:17:07,249 - INFO - Database connection established.
+2024-09-21 18:17:07,251 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:17:07,251 - INFO - Successfully fetched existing records
+2024-09-21 18:26:34,556 - INFO - Database connection established.
+2024-09-21 18:26:34,557 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:26:34,559 - ERROR - Failed to fetch existing records
+2024-09-21 18:26:48,034 - INFO - Database connection established.
+2024-09-21 18:26:48,035 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:26:48,036 - ERROR - Failed to fetch existing records
+2024-09-21 18:27:15,846 - INFO - Database connection established.
+2024-09-21 18:27:15,848 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:27:15,848 - INFO - Successfully fetched existing records
+2024-09-21 18:28:25,219 - INFO - Database connection established.
+2024-09-21 18:28:25,221 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:28:25,222 - INFO - Successfully fetched existing records
+2024-09-21 18:28:42,003 - INFO - Database connection established.
+2024-09-21 18:28:42,005 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:28:42,006 - INFO - Successfully fetched existing records
+2024-09-21 18:28:56,162 - INFO - Database connection established.
+2024-09-21 18:28:56,164 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:28:56,164 - INFO - Successfully fetched existing records
+2024-09-21 18:29:39,722 - INFO - Database connection established.
+2024-09-21 18:29:39,724 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:29:39,725 - INFO - Successfully fetched existing records
+2024-09-21 18:31:16,169 - INFO - Database connection established.
+2024-09-21 18:31:16,171 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:31:16,171 - INFO - Successfully fetched existing records
+2024-09-21 18:31:37,768 - INFO - Database connection established.
+2024-09-21 18:31:37,770 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:31:37,770 - INFO - Successfully fetched existing records
+2024-09-21 18:38:33,672 - INFO - Database connection established.
+2024-09-21 18:38:33,674 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:38:33,674 - INFO - Successfully fetched existing records
+2024-09-21 18:39:20,120 - INFO - Database connection established.
+2024-09-21 18:39:20,121 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:39:20,122 - INFO - Successfully fetched existing records
+2024-09-21 18:50:02,306 - INFO - Database connection established.
+2024-09-21 18:50:02,308 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:50:02,308 - INFO - Successfully fetched existing records
+2024-09-21 18:50:34,547 - INFO - Database connection established.
+2024-09-21 18:50:34,549 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:50:34,550 - INFO - Successfully fetched existing records
+2024-09-21 18:53:22,008 - INFO - Database connection established.
+2024-09-21 18:53:22,011 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:53:22,011 - INFO - Successfully fetched existing records
+2024-09-21 18:57:17,810 - INFO - Database connection established.
+2024-09-21 18:57:17,811 - INFO - Barcode 1001963424 exists in the database.
+2024-09-21 18:57:17,812 - INFO - Successfully fetched existing records
